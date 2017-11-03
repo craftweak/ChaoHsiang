@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.042516634, g: 0.057292998, b: 0.08591024, a: 1}
+  m_IndirectSpecularColor: {r: 0.32324216, g: 0.32324216, b: 0.32324216, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1216,7 +1216,7 @@ MonoBehaviour:
   volumeTrigger: {fileID: 944092748}
   volumeLayer:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 1
   stopNaNPropagation: 1
   antialiasingMode: 1
   temporalAntialiasing:
@@ -1327,7 +1327,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 158443768}
-  m_Mesh: {fileID: 4300078, guid: 38338b944f12244459f899a526d92ed2, type: 3}
+  m_Mesh: {fileID: 4300006, guid: ccd2fc7dda0325743a877abca33a1e3a, type: 3}
 --- !u!1 &159479556
 GameObject:
   m_ObjectHideFlags: 0
