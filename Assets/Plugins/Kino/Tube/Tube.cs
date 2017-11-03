@@ -10,9 +10,9 @@ namespace Kino
     {
         #region Editable attributes
 
-        [SerializeField, Range(0, 1)] float _bleeding = 0.5f;
-        [SerializeField, Range(0, 1)] float _fringing = 0.5f;
-        [SerializeField, Range(0, 1)] float _scanline = 0.5f;
+        [SerializeField, Range(0, 1)] public float _bleeding = 0.5f;
+        [SerializeField, Range(0, 1)] public float _fringing = 0.5f;
+        [SerializeField, Range(0, 1)] public float _scanline = 0.5f;
 
         #endregion
 
